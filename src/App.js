@@ -10,7 +10,7 @@ const API_URL = 'http://www.omdbapi.com?apikey=f67fbd5f';
 //         "Year": "1983",
 //         "imdbID": "tt0086491",
 //         "Type": "movie",
-//         "Poster": "http://m.media-amazon.com/images/M/MV5BYjQ2NzgzYjEtMzAxNy00MzhkLWE5ZTUtZDA1ODY3MTBjOTRiXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_SX300.jpg"
+//         "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ2NzgzYjEtMzAxNy00MzhkLWE5ZTUtZDA1ODY3MTBjOTRiXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_SX300.jpg"
     
 // }
 const App = () => {
