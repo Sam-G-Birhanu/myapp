@@ -4,7 +4,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from './MovieCard.jsx';
 // f67fbd5f
-const API_URL = 'http://www.omdbapi.com?apikey=f67fbd5f';
+const API_URL = 'https://www.omdbapi.com?apikey=f67fbd5f';
 // const movie1 = {
 //         "Title": "Twilight Zone: The Movie",
 //         "Year": "1983",
